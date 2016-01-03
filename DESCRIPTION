@@ -1,0 +1,20 @@
+Package: RealEstate
+Type: Package
+Title: Real Estate Analysis
+Version: 1.0
+Date: 2016-01-02
+Authors@R: person("Rafael", "Monge", email = "rafa@gmail.com", role = c("aut", "cre"))
+Description: Real estate analysis POC. Not really intenteded as a library. It
+    was transformed into a package to learn how to create packages
+License: GPL-2
+LazyData: true
+Imports:
+    tidyr,
+    dplyr,
+    yarrr,
+    openxlsx,
+    rvest,
+    XML,
+    stringr,
+    quantmod
+RoxygenNote: 5.0.1

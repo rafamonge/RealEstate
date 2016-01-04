@@ -2,3 +2,7 @@
 
 export(camel)
 export(getNewRealEstateData)
+export(getSummaryPriceByM2ConstruccionByProvincia)
+export(getSummaryPriceInUSDByProvincia)
+export(prepareForAnalysis)
+export(save)
